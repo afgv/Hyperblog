@@ -1,6 +1,6 @@
 body{
     text-align: center;
-    font-family: 'Lucida Sans';
+    font-family: 'Curier';
     color: crimson;
 }
 
@@ -15,4 +15,8 @@ body{
 
 #container h1{
     font-size: 20px;
+}
+
+#container h2{
+    color: crimson;
 }
