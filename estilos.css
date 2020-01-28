@@ -5,14 +5,9 @@ body{
 }
 
 #container{
-    width: 70%;
-    padding: 1em;
+    padding: 20pt;
     text-align:left;
     color: darkgray;
-    margin: 0 auto;
-    border: 1px solid #DDD;
-}
-
-#container h1{
-    font-size: 20px;
+    margin: 0;
+   border 1px solid #DDD;
 }
